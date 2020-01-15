@@ -1,5 +1,4 @@
-# project8
-Park -Biodiversity
+# Park -Biodiversity Description
 The National Park Service publishes a database of animal and plant species identified in individual national parks
 and verified by evidence — observations, vouchers, or reports that document the presence of a species in a park.
 All park species records are available to the public on the National Park Species portal; 
